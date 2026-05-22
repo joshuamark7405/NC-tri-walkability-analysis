@@ -4,3 +4,8 @@ Old/
 # Ignore raw data but keep folder structure
 Data/Raw/*
 !Data/Raw/.gitkeep
+
+# R junk files
+.Rhistory
+.RData
+.Rproj.user/
