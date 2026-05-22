@@ -1,0 +1,6 @@
+# Ignore Old folder
+Old/
+
+# Ignore raw data but keep folder structure
+Data/Raw/*
+!Data/Raw/.gitkeep
