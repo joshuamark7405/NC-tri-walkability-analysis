@@ -23,3 +23,16 @@ run each R file in this order:
 2. wrangle.R: will clean raw files and output them to Data/Cleaned and Data/Outputs
 3. analysis.R (interchangeable with 4): will run the analysis from cleaned data.
 4. create_map.R (interchangeable with 3): will create three maps and store them under Graphics.
+
+## License
+
+MIT License.
+Copyright (c) 2026 Joshua Mark.
+
+## Acknowledgements
+
+Feedback and guidance from my profesor, Dr. Paul Delamater.
+
+Created in R Studio.
+
+Libraries used: tidyverse, magrittr, sf, tigris, tmap, spdep, spatialreg, classInt.
